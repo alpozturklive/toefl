@@ -244,4 +244,3 @@ You are my English teacher. I will give you broken or incorrect English sentence
 *🗓️ Version: 1.1 — April 2026 (Updated with TOEFL 2026 Content)*
 ```
 
-Bu dosyayı doğrudan GitHub'daki eski içeriğin üzerine yapıştırarak güncelleyebilirsin. Tüm 24 tema artık tek bir yerde! Başka bir isteğin var mı?
