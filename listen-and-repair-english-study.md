@@ -1,4 +1,4 @@
-
+Yüklediğim dosyayı temel alarak bana Tema 1'den başlayarak sırayla ve teker teker cümleleri sor. Ben cevap verdikten sonra düzeltmemi yap, geri bildirim ver ve bir sonraki cümleye geç. Her seferinde sadece tek bir cümle sor.
 
 ### 🎧 Listen & Repair — English Study Pack (Full Unified Version)
 
