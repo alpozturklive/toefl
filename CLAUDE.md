@@ -11,17 +11,19 @@ ders — dosyayı AI'ya yükleyip başlangıç komutunu çalıştırıyor.
 
 ## Mevcut Dosyalar
 
-| Dosya | İçerik |
-|---|---|
-| `ders1.md` | Cafeteria, Campus Store, Lecture Hall (45 cümle) |
-| `ders2.md` | Library, Career Forum, MBA Open House (45 cümle) |
-| `ders3.md` | Airport, Restaurant, Hotel (45 cümle) |
-| `ders4.md` | Health Center, Gym, Dorm Life (45 cümle) |
-| `ders5.md` | Science Lecture, Lab, Research (45 cümle) |
-| `ders6.md` | Student Organizations, Campus Events, Study Abroad (45 cümle) |
-| `ders7.md` | Technology, Online Classes, Financial Aid (45 cümle) |
-| `toefl-listen-repeat-sentences.md` | 1608 cümle, kaynak havuzu |
-| `extract_toefl.py` | YouTube transcript çekme scripti |
+| Dosya | İçerik | TOEFL Önceliği |
+|---|---|---|
+| `ders1.md` | Cafeteria, Campus Store, Lecture Hall (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `ders2.md` | Library, Career Forum, MBA Open House (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `ders3.md` | Airport, Restaurant, Hotel (45 cümle) | ⚠️ Düşük — iBT'de nadiren çıkar |
+| `ders4.md` | Health Center, Gym, Dorm Life (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `ders5.md` | Science Lecture, Lab, Research (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `ders6.md` | Student Organizations, Campus Events, Study Abroad (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `ders7.md` | Technology, Online Classes, Financial Aid (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `ders8.md` | Registrar, Academic Advising, Tutoring Center (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `ders9.md` | Campus Housing Office, Campus Safety, Campus Transit (45 cümle) | ⭐⭐ Yüksek |
+| `toefl-listen-repeat-sentences.md` | ~1608 cümle — ⚠️ HAM VERİ, doğrudan kullanma | — |
+| `extract_toefl.py` | YouTube transcript çekme scripti | — |
 
 ## Mac'te Yapılacak Görev — YouTube Transcript Çıkarımı
 
@@ -74,9 +76,11 @@ lecture, library, career forum, airport, restaurant senaryoları.
 
 1. ders1 ✅ — Cafeteria, Campus Store, Lecture Hall
 2. ders2 ✅ — Library, Career Forum, MBA Open House
-3. ders3 ✅ — Airport, Restaurant, Hotel
+3. ders3 ✅ — Airport, Restaurant, Hotel ⚠️ (genel İngilizce; iBT'de nadiren çıkar)
 4. ders4 ✅ — Health Center, Gym, Dorm Life
 5. ders5 ✅ — Science Lecture, Lab, Research
 6. ders6 ✅ — Student Organizations, Campus Events, Study Abroad
 7. ders7 ✅ — Technology, Online Classes, Financial Aid
-8. ders8+ — YouTube'dan yeni temalar (bir sonraki çalıştırmada internet search + transcript)
+8. ders8 ✅ — Registrar's Office, Academic Advising, Tutoring Center
+9. ders9 ✅ — Campus Housing Office, Campus Safety, Campus Transit
+10. ders10+ — YouTube'dan yeni temalar (internet search + transcript ile genişlet)

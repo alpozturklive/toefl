@@ -22,16 +22,16 @@ Tema 1'den başla.
 
 ## Tema 1: Kampüs Yemekhanesi (Campus Dining)
 
-1. Meals are served daily here.
-2. Hot dishes are prepared fresh.
-3. Cold drinks are also available.
-4. Several menu options are offered daily.
-5. Different meals are displayed at the counter.
-6. Affordable prices are shown on the menu.
-7. Payment is completed at the front counter.
-8. Cards and mobile payments are accepted here.
-9. Busy periods usually occur around noon.
-10. Long lines often form during peak hours.
+1. Hot meals and cold drinks are served here daily.
+2. Fresh dishes are prepared in the kitchen every morning.
+3. A variety of beverages is also available at the station.
+4. Several menu options are offered and rotated each day.
+5. Different meals are displayed at the counter for students.
+6. Affordable prices are clearly shown on the dining menu.
+7. Payment is completed at the register near the front counter.
+8. Campus cards and mobile payments are accepted at all stations.
+9. Busy periods usually occur around noon and early evening.
+10. Long lines often form in the dining hall during peak hours.
 11. Used trays must be returned after finishing meals.
 12. Fresh meals are prepared and served throughout the day.
 13. Healthy choices are clearly marked on the food stations.
@@ -42,10 +42,10 @@ Tema 1'den başla.
 
 ## Tema 2: Kampüs Mağazası (Campus Store)
 
-16. Various items are sold here.
-17. Textbooks are available in the store.
-18. University logos are printed on shirts.
-19. Sweatshirts and hoodies are sold here.
+16. Various school supplies and branded items are sold here.
+17. Required textbooks are available for purchase in the campus store.
+18. University logos are printed on shirts, mugs, and accessories.
+19. Sweatshirts and hoodies featuring the school crest are sold here.
 20. Caps and bags are displayed on shelves.
 21. Clothing sizes are available in different ranges.
 22. Some designs feature official university branding.
@@ -62,11 +62,11 @@ Tema 1'den başla.
 
 ## Tema 3: Derslik / Amfi (Lecture Hall)
 
-31. The lecture begins on time.
-32. Students sit in rows.
-33. The instructor stands at the front.
-34. Slides, charts, and graphs are shown.
-35. Key points are explained clearly.
+31. All lectures in this auditorium are expected to begin on time.
+32. Students are seated in tiered rows throughout the lecture hall.
+33. The instructor stands at the front podium to face the class.
+34. Slides, charts, and graphs are projected on the main screen.
+35. Key points and definitions are explained clearly during the lecture.
 36. Students listen and take notes.
 37. Important terms are repeated for clarity.
 38. Visual materials help explain complex concepts.

@@ -1,5 +1,20 @@
-# TOEFL 2026 "Listen & Repeat" — Theme-Based Sentence Collection
+# TOEFL 2026 "Listen & Repeat" — Ham Cümle Havuzu
 
+> ⚠️ **UYARI — İşlenmemiş Ham Veri**
+> Bu dosya YouTube transcript'lerinden otomatik çıkarılmış **ham materyaldir**.
+> Doğrudan çalışma materyali olarak KULLANMA.
+>
+> **Sorunlar:**
+> - TOEFL dışı cümleler mevcut ("The cat sat on the mat" vb.)
+> - Tema etiketleri yanlış eşleştirilmiş (Travel bölümünde bilim cümleleri var)
+> - Bazı cümleler 50+ kelime — Listen & Repeat için uygunsuz
+> - Çok sayıda tekrar ve duplikasyon
+>
+> **Kullanım:** Yeni ders dosyası oluştururken ham kaynak olarak taranabilir.
+> Hazır dersler için `ders1.md` – `ders9.md` dosyalarını kullan.
+>
+> ---
+>
 > **Source:** Inspire SpeakEasy YouTube — TOEFL Speaking Task 1 (2026 Format)
 > **Extracted by:** Gemini 2.5 Flash Lite | **Deduplicated & Theme-organized**
 

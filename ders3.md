@@ -3,6 +3,9 @@
 > Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle.
 > Sadece **Listen & Repeat** — Speaking görevi (2 mülakat sorusu) bu dosyada yoktur.
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy
+>
+> ⚠️ **Not:** Airport, Restaurant, Hotel senaryoları TOEFL iBT'de nadiren çıkar.
+> Bu ders genel İngilizce kulak eğitimi için değerlidir; ancak kampüs senaryolarını (ders1–2, ders4–9) önceliklendir.
 
 ---
 
