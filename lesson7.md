@@ -109,5 +109,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 tema
-> **Önceki:** `ders6.md` → Student Organizations, Campus Events, Study Abroad
-> **Sonraki:** `ders8.md` → Environment & Sustainability, Ethics, Campus Policy
+> **Önceki:** `lesson6.md` → Student Organizations, Campus Events, Study Abroad
+> **Sonraki:** `lesson8.md` → Environment & Sustainability, Ethics, Campus Policy

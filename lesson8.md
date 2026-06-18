@@ -109,5 +109,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 tema
-> **Önceki:** `ders7.md` → Technology, Online Classes, Financial Aid
-> **Sonraki:** `ders9.md` → Campus Housing, Campus Safety, Campus Transit
+> **Önceki:** `lesson7.md` → Technology, Online Classes, Financial Aid
+> **Sonraki:** `lesson9.md` → Campus Housing, Campus Safety, Campus Transit

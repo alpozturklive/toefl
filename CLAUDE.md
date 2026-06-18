@@ -13,15 +13,15 @@ ders — dosyayı AI'ya yükleyip başlangıç komutunu çalıştırıyor.
 
 | Dosya | İçerik | TOEFL Önceliği |
 |---|---|---|
-| `ders1.md` | Cafeteria, Campus Store, Lecture Hall (45 cümle) | ⭐⭐⭐ Çok yüksek |
-| `ders2.md` | Library, Career Forum, MBA Open House (45 cümle) | ⭐⭐⭐ Çok yüksek |
-| `ders3.md` | Airport, Restaurant, Hotel (45 cümle) | ⚠️ Düşük — iBT'de nadiren çıkar |
-| `ders4.md` | Health Center, Gym, Dorm Life (45 cümle) | ⭐⭐⭐ Çok yüksek |
-| `ders5.md` | Science Lecture, Lab, Research (45 cümle) | ⭐⭐⭐ Çok yüksek |
-| `ders6.md` | Student Organizations, Campus Events, Study Abroad (45 cümle) | ⭐⭐⭐ Çok yüksek |
-| `ders7.md` | Technology, Online Classes, Financial Aid (45 cümle) | ⭐⭐⭐ Çok yüksek |
-| `ders8.md` | Registrar, Academic Advising, Tutoring Center (45 cümle) | ⭐⭐⭐ Çok yüksek |
-| `ders9.md` | Campus Housing Office, Campus Safety, Campus Transit (45 cümle) | ⭐⭐ Yüksek |
+| `lesson1.md` | Cafeteria, Campus Store, Lecture Hall (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `lesson2.md` | Library, Career Forum, MBA Open House (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `lesson3.md` | Airport, Restaurant, Hotel (45 cümle) | ⚠️ Düşük — iBT'de nadiren çıkar |
+| `lesson4.md` | Health Center, Gym, Dorm Life (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `lesson5.md` | Science Lecture, Lab, Research (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `lesson6.md` | Student Organizations, Campus Events, Study Abroad (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `lesson7.md` | Technology, Online Classes, Financial Aid (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `lesson8.md` | Registrar, Academic Advising, Tutoring Center (45 cümle) | ⭐⭐⭐ Çok yüksek |
+| `lesson9.md` | Campus Housing Office, Campus Safety, Campus Transit (45 cümle) | ⭐⭐ Yüksek |
 | `toefl-listen-repeat-sentences.md` | ~1608 cümle — ⚠️ HAM VERİ, doğrudan kullanma | — |
 | `extract_toefl.py` | YouTube transcript çekme scripti | — |
 
@@ -43,8 +43,8 @@ Script çalışınca `new_sentences.md` oluşur.
 **Sonra ne yapılacak:**
 1. `new_sentences.md` içindeki cümleleri temizle (tekrar, köşeli parantez, kısa olanlar)
 2. `toefl-listen-repeat-sentences.md` ile çakışanları çıkar (dedup)
-3. Yeni cümleleri tema bazlı `ders002.md`, `ders003.md`... olarak böl
-4. Her ders dosyası yapısı `ders001.md` ile aynı olsun (prompt + bölümler + rubrik)
+3. Yeni cümleleri tema bazlı `lesson002.md`, `lesson003.md`... olarak böl
+4. Her ders dosyası yapısı `lesson001.md` ile aynı olsun (prompt + bölümler + rubrik)
 
 ## Ders Dosyası Yapısı (şablon)
 

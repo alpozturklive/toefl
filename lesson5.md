@@ -109,5 +109,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 tema
-> **Önceki:** `ders4.md` → Health Center, Gym, Dorm Life
-> **Sonraki:** `ders6.md` → Student Organizations, Campus Events
+> **Önceki:** `lesson4.md` → Health Center, Gym, Dorm Life
+> **Sonraki:** `lesson6.md` → Student Organizations, Campus Events

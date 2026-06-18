@@ -109,5 +109,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 tema
-> **Önceki:** `ders3.md` → Airport, Restaurant, Hotel
-> **Sonraki:** `ders5.md` → Science Lecture, Lab, Research
+> **Önceki:** `lesson3.md` → Airport, Restaurant, Hotel
+> **Sonraki:** `lesson5.md` → Science Lecture, Lab, Research

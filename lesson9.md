@@ -109,5 +109,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 tema
-> **Önceki:** `ders8.md` → Registrar, Academic Advising, Tutoring Center
+> **Önceki:** `lesson8.md` → Registrar, Academic Advising, Tutoring Center
 > **Sonraki:** Tamamlandı — 405 kampüs cümlesi hazır (ders1–9)

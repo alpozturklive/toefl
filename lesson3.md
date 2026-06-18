@@ -112,5 +112,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 tema
-> **Önceki:** `ders2.md` → Library, Career Forum, MBA Open House
-> **Sonraki:** `ders4.md` → Health Center, Gym, Dorm Life
+> **Önceki:** `lesson2.md` → Library, Career Forum, MBA Open House
+> **Sonraki:** `lesson4.md` → Health Center, Gym, Dorm Life

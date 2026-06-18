@@ -109,5 +109,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 tema
-> **Önceki:** `ders5.md` → Science Lecture, Lab, Research
-> **Sonraki:** `ders7.md` → Technology, Online Classes, Financial Aid
+> **Önceki:** `lesson5.md` → Science Lecture, Lab, Research
+> **Sonraki:** `lesson7.md` → Technology, Online Classes, Financial Aid
