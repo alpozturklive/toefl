@@ -1,4 +1,4 @@
-# TOEFL 2026 — Ders 001: Listen & Repeat
+# TOEFL 2026 — Ders 1: Listen & Repeat
 
 > Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle (veya tüm içeriği kopyalayıp yapıştır).
 > Sadece **Listen & Repeat** bölümü — TOEFL'ın Speaking görevi (2 mülakat) bu dosyada **yoktur**.

@@ -109,5 +109,5 @@ Tema 1'den başla.
 ---
 
 > **Toplam:** 45 cümle — 3 kampüs teması
-> **Önceki:** `ders001.md` → Cafeteria, Campus Store, Lecture Hall
-> **Sonraki:** `ders003.md` → Travel & Airport, Shopping, Restaurant
+> **Önceki:** `lesson1.md` → Cafeteria, Campus Store, Lecture Hall
+> **Sonraki:** `lesson3.md` → Travel & Airport, Shopping, Restaurant
