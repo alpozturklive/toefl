@@ -1,6 +1,6 @@
 # TOEFL 2026 — Listen & Repeat Study Pack
 
-AI-assisted TOEFL iBT 2026 Listen & Repeat practice. Each lesson file contains 45 campus sentences grouped by theme, with a built-in AI prompt, pronunciation tips, and a 0–5 scoring rubric.
+AI-assisted TOEFL iBT 2026 Listen & Repeat practice. Each lesson covers 3 campus scenes. Every scene is split into a **🎯 Exam Set** — 7 sentences ordered short→long with the real exam timing (8 / 8 / 10 / 10 / 10 / 12 / 12 seconds) — plus **📚 Extra Practice** sentences. Built-in AI prompt, pronunciation tips, and a 0–5 scoring rubric included.
 
 ---
 
@@ -31,25 +31,26 @@ Download the `.md` file and upload it to Gemini / ChatGPT. Then say:
 |------|--------|----------|
 | [lesson1.md](lesson1.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson1.md) | Cafeteria, Campus Store, Lecture Hall | ⭐⭐⭐ High |
 | [lesson2.md](lesson2.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson2.md) | Library, Career Forum, MBA Open House | ⭐⭐⭐ High |
-| [lesson3.md](lesson3.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson3.md) | Airport, Restaurant, Hotel | ⚠️ Rarely on iBT |
+| [lesson3.md](lesson3.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson3.md) | Art Museum, International Student Office, IT Help Desk | ⭐⭐⭐ High |
 | [lesson4.md](lesson4.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson4.md) | Health Center, Gym, Dorm Life | ⭐⭐⭐ High |
 | [lesson5.md](lesson5.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson5.md) | Science Lecture, Lab, Research | ⭐⭐⭐ High |
 | [lesson6.md](lesson6.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson6.md) | Student Organizations, Campus Events, Study Abroad | ⭐⭐⭐ High |
 | [lesson7.md](lesson7.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson7.md) | Technology, Online Classes, Financial Aid | ⭐⭐⭐ High |
 | [lesson8.md](lesson8.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson8.md) | Registrar's Office, Academic Advising, Tutoring Center | ⭐⭐⭐ High |
 | [lesson9.md](lesson9.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson9.md) | Campus Housing, Campus Safety, Campus Transit | ⭐⭐ Medium |
+| [lesson10.md](lesson10.md) · [▶ raw](https://raw.githubusercontent.com/alpozturklive/toefl/main/lesson10.md) | Orientation Week, Graduate Admissions, Campus Sustainability | ⭐⭐⭐ High |
 
-**Total: 405 sentences across 9 lessons** (lesson1–2, 4–9 are core TOEFL iBT campus topics)
+**Total: 450 sentences across 10 lessons** — every scene has a 7-sentence Exam Set (210 exam sentences) plus extra practice.
 
 ---
 
 ## What the AI Does Each Turn
 
-1. Gives you **one sentence** at a time
-2. You read it aloud (or type it)
-3. AI gives feedback on **pronunciation, stress, thought groups**
-4. Checks articles (a/an/the), final -s/-ed endings
-5. Moves to the next sentence when you say **"Next"** or **"Hazırım"**
+1. Runs the **🎯 Exam Set** first — 7 sentences, short→long, one at a time
+2. Reminds you of the **time limit** (8 / 10 / 12 s) for each sentence
+3. You read it aloud (or type it)
+4. AI gives feedback on **pronunciation, stress, thought groups**, and checks articles (a/an/the) and final -s/-ed endings
+5. Moves on when you say **"Next"** or **"Hazırım"**; after the Exam Set it continues to **📚 Extra Practice**
 
 ---
 

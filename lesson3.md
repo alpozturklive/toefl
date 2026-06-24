@@ -1,85 +1,98 @@
-# TOEFL 2026 — Ders 3: Airport, Restaurant, Hotel
+# TOEFL 2026 — Ders 3: Art Museum, International Student Office, IT Help Desk
 
-> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle.
-> Sadece **Listen & Repeat** — Speaking görevi (2 mülakat sorusu) bu dosyada yoktur.
-> Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy
+> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle (veya tüm içeriği kopyalayıp yapıştır).
+> Sadece **Listen & Repeat** bölümü — TOEFL'ın Speaking görevi (2 mülakat) bu dosyada **yoktur**.
+> Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy & toeflpreps.com
 >
-> ⚠️ **Not:** Airport, Restaurant, Hotel senaryoları TOEFL iBT'de nadiren çıkar.
-> Bu ders genel İngilizce kulak eğitimi için değerlidir; ancak kampüs senaryolarını (ders1–2, ders4–9) önceliklendir.
+> ℹ️ **Not:** Bu ders, eski Airport/Restaurant/Hotel temalarının yerine ETS'nin gerçek
+> sahne ortamlarına (müze, ofis, yardım masası) göre yeniden yazıldı.
 
 ---
 
 ## Başlangıç Komutu (AI'ya yapıştır)
 
 ```
-Bu dosyadaki cümleleri bana sırayla, teker teker ver. Her seferinde:
-1. Sadece bir cümle yaz — hepsini birden verme.
-2. Ben cümleyi sesli tekrar ederim (veya yazarım).
-3. Telaffuz, vurgu ve düşünce grupları hakkında kısa geri bildirim ver.
-4. "a/an/the" gibi küçük kelimeleri ve sondaki -s/-ed eklerini kontrol et.
-5. "Hazırım" veya "Next" dediğimde bir sonraki cümleye geç.
-Tema 1'den başla.
+Bu dosya TOEFL 2026 Listen & Repeat pratiği içindir. Şu kurallara uy:
+1. Her temada önce "🎯 Sınav Seti"ni çalıştır: 7 cümleyi TEK TEK, kısa→uzun sırayla ver.
+2. Her cümleden sonra ben sesli tekrar ederim; telaffuz, vurgu, düşünce grupları
+   (thought groups) ve işlevsel kelimeler hakkında kısa geri bildirim ver.
+3. Parantezdeki süreyi (8/10/12 sn) hatırlat — cümleyi o süre içinde bitirmem gerekir.
+4. Özellikle "a/an/the", sondaki -s ve -ed eklerini kontrol et; eksik/değişen kelimeyi belirt.
+5. "Next" / "Hazırım" dediğimde sıradaki cümleye geç. Sınav seti bitince "Ekstra Pratik"e geç.
+Tema 1'in Sınav Seti'nden başla.
 ```
 
 ---
 
-## Tema 1: Havalimanı (Airport)
+## Tema 1: Sanat Müzesi / Galeri (Campus Art Museum)
+> 🖼️ **Sahne:** Kampüs sanat müzesi galerisi; duvarda tablolar, heykeller, tur rehberi.
 
-1. Flights are listed on the departure board.
-2. Security lines move quickly during off-peak hours.
-3. Boarding begins thirty minutes before departure.
-4. Carry-on bags must fit in the overhead compartment.
-5. Passengers are asked to arrive two hours early.
-6. Gate changes are announced over the intercom.
-7. Tickets must be confirmed at least twenty-four hours before the flight.
-8. Checked luggage is limited to two bags per passenger.
-9. Electronic devices must be turned off during takeoff and landing.
-10. The customs form must be completed before arriving at the border.
-11. Connecting flights require passengers to go through security again.
-12. Lost baggage claims are handled at the airline service desk.
-13. International travelers must present a valid passport and visa.
-14. Passengers with disabilities are given priority boarding at all gates.
-15. The flight attendant demonstrated the emergency procedures before takeoff.
+### 🎯 Sınav Seti — kısa→uzun, sınav gibi sırayla (süreyle çalış)
+1. **(8 sn)** Photography is not allowed inside the gallery.
+2. **(8 sn)** Guided tours begin at the main entrance.
+3. **(10 sn)** The museum hosts a special student exhibition every spring.
+4. **(10 sn)** Audio guides are available in several languages at the desk.
+5. **(10 sn)** Each artwork is labeled with the artist's name and date.
+6. **(12 sn)** Visitors can join a curator's talk on the history of the collection.
+7. **(12 sn)** The gift shop near the exit sells prints, postcards, and art books.
 
----
-
-## Tema 2: Restoran (Restaurant)
-
-16. A table for two is available near the window.
-17. The daily specials are listed on the chalkboard.
-18. The server will take your order in a moment.
-19. Vegetarian and vegan options are clearly marked on the menu.
-20. Reservations are recommended on weekend evenings.
-21. The kitchen closes at ten o'clock on weeknights.
-22. Split checks are accepted at the front register.
-23. Gratuity is included for groups of six or more.
-24. Allergy information is available upon request from the staff.
-25. The soup of the day is freshly prepared each morning.
-26. Takeout orders can be placed online or by phone.
-27. Leftovers can be packed in a container to take home.
-28. The restaurant uses locally sourced ingredients for most dishes.
-29. Customers are asked to make reservations for parties larger than eight.
-30. A complimentary dessert is offered on birthdays with valid identification.
+### 📚 Ekstra Pratik (zamansız tekrar)
+8. The museum is free for all students.
+9. Please do not touch the paintings on display.
+10. The new exhibit opens to the public next week.
+11. The sculpture collection is located on the second floor.
+12. Visitors are asked to keep their voices low in the galleries.
+13. Large bags must be left in the lockers near the entrance.
+14. A guided tour of the modern art wing lasts about an hour.
+15. Photography without flash is permitted only in the main lobby area.
 
 ---
 
-## Tema 3: Otel / Konaklama (Hotel)
+## Tema 2: Uluslararası Öğrenci Ofisi (International Student Office)
+> 🖼️ **Sahne:** Uluslararası öğrenci ofisi; danışma masası, vize/belge işlemleri.
 
-31. Check-in begins at three in the afternoon.
-32. Early check-in is available for an additional fee.
-33. The front desk is open twenty-four hours a day.
-34. Room service is available until midnight on weekdays.
-35. Housekeeping visits daily between nine and noon.
-36. Wi-Fi is complimentary for all registered guests.
-37. The fitness center is located on the second floor.
-38. Late check-out must be requested by noon on the day of departure.
-39. Lost room keys should be reported to the front desk immediately.
-40. The hotel shuttle runs every thirty minutes to the airport.
-41. Breakfast is included in the standard rate for all guests.
-42. Parking is available in the underground garage for a daily fee.
-43. Guests are responsible for any damage caused during their stay.
-44. The concierge can arrange tours, restaurant reservations, and transportation.
-45. Do not disturb signs should be placed on the door handle before retiring.
+### 🎯 Sınav Seti — kısa→uzun, sınav gibi sırayla (süreyle çalış)
+1. **(8 sn)** Bring your passport to every appointment.
+2. **(8 sn)** Advisors can answer questions about immigration rules.
+3. **(10 sn)** Health insurance is mandatory for all international students.
+4. **(10 sn)** The office issues the documents required for visa renewal.
+5. **(10 sn)** Staff can help you open a local bank account.
+6. **(12 sn)** Travel signatures are required before leaving the country during breaks.
+7. **(12 sn)** The office organizes social events to help new students meet one another.
+
+### 📚 Ekstra Pratik (zamansız tekrar)
+8. Visa documents must be kept up to date.
+9. The office helps students apply for work permits.
+10. Orientation sessions are held before the semester begins.
+11. International students must report any change of address.
+12. Workshops on cultural adjustment are offered throughout the year.
+13. Students must maintain full-time enrollment to keep their visa status.
+14. The office provides letters confirming your enrollment for official purposes.
+15. Appointments with an immigration advisor should be booked in advance.
+
+---
+
+## Tema 3: BT Yardım Masası (IT Help Desk)
+> 🖼️ **Sahne:** BT yardım masası; bilgisayarlar, destek görevlisi, ödünç dizüstüler.
+
+### 🎯 Sınav Seti — kısa→uzun, sınav gibi sırayla (süreyle çalış)
+1. **(8 sn)** Please restart your computer first.
+2. **(8 sn)** The campus Wi-Fi password changes every semester.
+3. **(10 sn)** Laptops are available for short-term loan to enrolled students.
+4. **(10 sn)** Connect to the secure network using your university username.
+5. **(10 sn)** Forgotten passwords can be reset using your student ID number.
+6. **(12 sn)** The help desk is located on the first floor of the library.
+7. **(12 sn)** Printing credits can be added to your account at the front desk.
+
+### 📚 Ekstra Pratik (zamansız tekrar)
+8. Students receive a free email account upon enrollment.
+9. Software licenses are available through the university portal.
+10. Report any technical problems through the online ticket system.
+11. The help desk offers virus removal and basic repair services.
+12. Back up your files regularly to avoid losing important work.
+13. Technical support is available by phone, email, and live chat.
+14. Two-factor authentication is required to access university accounts.
+15. The IT department sends regular reminders about online security practices.
 
 ---
 
@@ -94,23 +107,23 @@ Tema 1'den başla.
 | **1** | Sadece birkaç kelime. Cümle bütünlüğü yok. |
 | **0** | Yanıt yok. |
 
-**Süre sınırları:**
-- Kısa cümleler (1-2 kelime grubu): **8 saniye**
-- Orta cümleler (3-5 kelime grubu): **10 saniye**
-- Uzun cümleler (6-7 kelime grubu): **12 saniye**
+**Süre sınırları (Sınav Seti'ndeki sırayla):**
+- Cümle 1-2 (kısa): **8 saniye**
+- Cümle 3-5 (orta): **10 saniye**
+- Cümle 6-7 (uzun): **12 saniye**
 
 ---
 
 ## 5 Telaffuz Tuzağı
 
-1. **Article Trap** — "a, an, the" kelimelerini yutma.
-2. **Thought Groups** — virgülden sonra doğal duraklama yap.
-3. **Function Words** — "is, at, for, of" vurgulama ama yutma da.
-4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme.
-5. **Düz tonlama** — cümle sonunda doğal iniş-çıkış yap.
+1. **Article Trap** — "a, an, the" kelimelerini yutma. AI bunları sayar.
+2. **Thought Groups** — "Although", "Because" sonrası ve virgülde doğal duraklama yap.
+3. **Function Words** — "is, at, for, of" kelimelerini vurgulama ama yutma da.
+4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme (books ≠ book).
+5. **Düz tonlama** — Robot gibi konuşma; İngilizce ritimli bir dildir.
 
 ---
 
-> **Toplam:** 45 cümle — 3 tema
+> **Toplam:** 45 cümle — 3 sahne (her sahnede 7'lik Sınav Seti + 8 ekstra)
 > **Önceki:** `lesson2.md` → Library, Career Forum, MBA Open House
 > **Sonraki:** `lesson4.md` → Health Center, Gym, Dorm Life
