@@ -10,74 +10,87 @@
 Bu dosyadaki cümleleri bana sırayla, teker teker ver. Her seferinde:
 1. Sadece bir cümle yaz — hepsini birden verme.
 2. Ben cümleyi sesli tekrar ederim (veya yazarım).
-3. Telaffuz, vurgu ve düşünce grupları hakkında kısa geri bildirim ver.
-4. "a/an/the" gibi küçük kelimeleri ve sondaki -s/-ed eklerini kontrol et.
-5. "Hazırım" veya "Next" dediğimde bir sonraki cümleye geç.
-Tema 1'den başla.
+3. Telaffuz ve vurgu hakkında kısa geri bildirim ver; "a/an/the" ile sondaki -s/-ed eklerini kontrol et.
+4. Bir kelime sorarsam: önce Türkçe anlamını ver, sonra İngilizce eş anlamlılarını listele.
+5. Uzun cümleyi tekrar edemersem: parçalara böl, parça parça öğret, sonra tümünü tekrar iste.
+6. "Hazırım" veya "Next" yazana kadar sessizce bekle — "ready?" gibi sorular sorma.
+Senaryo 1'den başla.
 ```
 
 ---
 
-## Tema 1: Museum Tour
+## Senaryo 1: Museum Tour — Start
 
-1. Please gather near the entrance before the guided tour begins.
-2. The tour starts in just a few minutes.
-3. Make sure your headset is working before we begin walking.
-4. Photography is permitted in the main hall only.
-5. This exhibit covers three thousand years of human history.
-6. Please stay close to the group so everyone can hear the guide clearly.
-7. Large bags and backpacks must be stored in the lockers near the front desk.
-8. Tonight we will screen three short documentary films in the theater.
-9. The directors will answer audience questions after the final screening.
-10. You can vote for the audience award at the table in the main lobby.
-11. A short break will take place between the second and third films.
-12. Keep your ticket stub — you will need it for tomorrow's panel discussion.
-13. Touching the exhibits or display cases is strictly prohibited.
-14. Guided tours are offered daily at ten, noon, and three in the afternoon.
-15. The museum gift shop is open until thirty minutes after closing time.
+1. Please gather near the entrance.
+2. The tour starts in a few minutes.
+3. Make sure your headset is working.
+4. Photography is permitted only in the main exhibition hall.
+5. This exhibit covers over three thousand years of human history and culture.
+6. Please stay close to the group at all times so that everyone can clearly hear the tour guide.
+7. Large bags and backpacks must be stored in the coin lockers located near the information desk at the front.
 
 ---
 
-## Tema 2: Botanical Garden
+## Senaryo 2: Museum — Film Night
 
-16. Welcome to the botanical garden.
-17. Please stay on the marked paths at all times.
-18. Do not touch any of the tropical plants in this room.
-19. Some rare species require high humidity and must not be disturbed.
-20. The back research section is closed to general visitors.
-21. If you take photographs of the plants, please turn off your camera flash.
-22. Guided tours are available every afternoon — register at the main entrance.
-23. The tropical greenhouse is straight ahead on your right.
-24. Many rare species bloom during the spring season here.
-25. Information labels are placed near the base of each major plant.
-26. If you want to take photos, make sure not to block the path for others.
-27. Guided tours start every hour from the visitor center near the main gate.
-28. Please do not pick flowers or remove any plant material from the garden.
-29. The garden café serves light meals from ten in the morning until four.
-30. Touching the delicate flowers can transfer oils from your skin to the petals.
+8. Please silence your devices now.
+9. Tickets are sold at the front gate.
+10. Keep your stub for tomorrow.
+11. Tonight we will screen three short documentary films in the main theater.
+12. The film directors will answer audience questions immediately after the final screening ends.
+13. A short intermission will take place between the second and third films so you can visit the café.
+14. You will need your ticket stub tomorrow to gain access to the panel discussion held in the main lobby.
 
 ---
 
-## Tema 3: University Observatory
+## Senaryo 3: Botanical Garden — Welcome
 
-31. Welcome to the university observatory.
-32. The tour will begin in just a moment.
-33. Please give your eyes a few minutes to adjust to the darkness.
-34. The main telescope is housed in the dome at the top of this building.
-35. Tonight we will be viewing Jupiter and its four largest moons.
-36. Do not use your phone camera — the bright screen will ruin your night vision.
-37. If clouds move in, we will go downstairs to watch a solar system documentary.
-38. The planetarium opens at sunset each evening throughout the semester.
-39. Tickets are sold at the front gate and online in advance.
-40. Please silence all mobile devices before entering the domed theater.
-41. You can view the rings of Saturn clearly through the main telescope tonight.
-42. If the sky stays clear, we may also spot a few distant star clusters.
-43. Visitors must remain seated until the house lights come back on fully.
-44. After the presentation, the guest astronomer will take questions in the lobby.
-45. School group visits must be booked at least two weeks ahead of the visit date.
+15. Welcome to the botanical garden.
+16. Please stay on the marked paths.
+17. Do not touch the tropical plants.
+18. Some rare species require high humidity and must never be disturbed by visitors.
+19. The back research area is completely closed to all members of the general public.
+20. If you take photographs of the flowers, please remember to turn off your camera flash beforehand.
+21. Guided tours depart every afternoon and must be registered for at the visitor desk near the main entrance gate.
 
 ---
 
-> **Toplam:** 45 cümle — 3 tema
+## Senaryo 4: Botanical Garden — Rules
+
+22. The greenhouse is straight ahead.
+23. Many rare plants bloom in spring.
+24. Do not pick any flowers here.
+25. Information labels are posted near the base of every major plant throughout the garden.
+26. Touching the delicate petals can transfer harmful oils from your skin directly onto the flower surfaces.
+27. If you wish to photograph the plants, please ensure you do not block the walking path for other visitors.
+28. The botanical garden café serves light meals and beverages from ten in the morning until four in the afternoon.
+
+---
+
+## Senaryo 5: Observatory — Night Tour
+
+29. Welcome to the university observatory.
+30. The tour begins in a moment.
+31. Let your eyes adjust to the dark.
+32. The main telescope is housed inside the dome at the very top of this building.
+33. Tonight we will observe Jupiter and its four largest moons through the main telescope.
+34. Please do not use your phone camera inside the dome, as the bright screen will ruin everyone's night vision.
+35. If clouds move in during our session, we will relocate downstairs to watch a documentary about the solar system.
+
+---
+
+## Senaryo 6: Observatory — Public Programs
+
+36. The planetarium opens at sunset.
+37. Tickets are sold at the front.
+38. Please silence all mobile devices.
+39. You can clearly see the rings of Saturn through the main telescope on a clear night like tonight.
+40. Visitors are required to remain seated in the theater until the house lights come back on completely.
+41. After the astronomy presentation, the visiting guest lecturer will take questions from the audience in the lobby.
+42. School group visits to the observatory and planetarium must be booked at least two full weeks in advance.
+
+---
+
+> **Toplam:** 42 cümle — 6 senaryo (3 kısa + 2 orta + 2 uzun her senaryo)
 > **Önceki:** `lesson12.md` → Chemistry Lab, Biology Lab, Robotics Open House
 > **Sonraki:** `lesson14.md` → Airport Gate, Campus Mailroom, Career Center

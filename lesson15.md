@@ -1,4 +1,4 @@
-# TOEFL 2026 — Ders 15: Dining Hall, Campus Store, Campus Tour
+# TOEFL 2026 — Ders 15: Dining Hall, Campus Bookstore, Campus Tour
 
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy + goarno.io practice scenarios
 
@@ -10,74 +10,87 @@
 Bu dosyadaki cümleleri bana sırayla, teker teker ver. Her seferinde:
 1. Sadece bir cümle yaz — hepsini birden verme.
 2. Ben cümleyi sesli tekrar ederim (veya yazarım).
-3. Telaffuz, vurgu ve düşünce grupları hakkında kısa geri bildirim ver.
-4. "a/an/the" gibi küçük kelimeleri ve sondaki -s/-ed eklerini kontrol et.
-5. "Hazırım" veya "Next" dediğimde bir sonraki cümleye geç.
-Tema 1'den başla.
+3. Telaffuz ve vurgu hakkında kısa geri bildirim ver; "a/an/the" ile sondaki -s/-ed eklerini kontrol et.
+4. Bir kelime sorarsam: önce Türkçe anlamını ver, sonra İngilizce eş anlamlılarını listele.
+5. Uzun cümleyi tekrar edemersem: parçalara böl, parça parça öğret, sonra tümünü tekrar iste.
+6. "Hazırım" veya "Next" yazana kadar sessizce bekle — "ready?" gibi sorular sorma.
+Senaryo 1'den başla.
 ```
 
 ---
 
-## Tema 1: Campus Dining Hall
+## Senaryo 1: Dining Hall — Welcome
 
 1. Welcome to the main dining hall.
-2. Please swipe your student ID card at the entrance.
-3. The salad bar is located in the center of the room.
-4. Vegetarian options are marked with a green leaf symbol at each station.
-5. You may take one piece of fruit when you leave the dining hall.
-6. During busy hours, please share tables with other students.
-7. Return all dishes and silverware to the washing station near the exit.
-8. Hot meals are prepared fresh throughout the day at the main stations.
-9. Breakfast runs from seven to ten, with both hot and cold options available.
-10. We accept meal cards, credit cards, and mobile payments at all registers.
-11. Gluten-free and allergen-aware options are labeled clearly at each station.
-12. Please take only what you plan to eat to reduce food waste.
-13. The weekly menu is posted every Sunday on our website and mobile app.
-14. Trays and utensils must be returned to the designated return area after meals.
-15. The dining hall is open seven days a week from seven in the morning until ten at night.
+2. Please swipe your student ID.
+3. The salad bar is in the center.
+4. Vegetarian options are marked with a green leaf symbol at each food station.
+5. You are welcome to take one piece of fresh fruit when you leave the dining hall.
+6. During busy meal hours, we kindly ask that you share tables with other students who are still eating.
+7. Please return all dishes, trays, and silverware to the washing station located near the exit when you finish.
 
 ---
 
-## Tema 2: Campus Bookstore & Store
+## Senaryo 2: Dining Hall — Menu & Hours
 
-16. Welcome to the campus bookstore.
-17. Textbooks for your courses are organized by department in the back section.
-18. You will find notebooks, pens, and supplies along the left wall.
-19. Buybacks are accepted during finals week at the end of each semester.
-20. Digital course materials can be purchased using your student login.
-21. If a textbook is sold out, you can place an order at the front counter.
-22. Returns are accepted within seven days with the original receipt and packaging.
-23. University branded clothing and accessories are displayed near the entrance.
-24. Popular items include hoodies, caps, and mugs featuring the school logo.
-25. Seasonal and limited-edition items are available at the start of each term.
-26. The store offers a price match guarantee on all required textbook titles.
-27. Used textbooks are available at a significant discount while supplies last.
-28. New designs and merchandise arrive at the beginning of each academic year.
-29. Gift cards for the campus store are sold at the main checkout counter.
-30. Student employees staff the store and can help you locate any item.
+8. Breakfast runs from seven to ten.
+9. The weekly menu is posted online.
+10. We accept mobile payments here.
+11. Hot meals are freshly prepared throughout the day at every main food station.
+12. Gluten-free and allergen-aware options are clearly labeled at every station for student convenience.
+13. The dining hall is open seven days a week from seven in the morning until ten o'clock at night.
+14. Please take only the amount of food you plan to eat in order to reduce unnecessary food waste on campus.
 
 ---
 
-## Tema 3: Campus Tour
+## Senaryo 3: Campus Bookstore — Welcome
 
-31. Welcome to the campus tour — we are glad you are here today.
-32. Each tour sets off from the student union building at the top of the hour.
-33. On your left is the biology building, which was renovated last summer.
-34. Across the courtyard is the dining hall, open from seven in the morning until ten at night.
-35. The fitness center is free for all enrolled students, including weekend access.
-36. Buses to downtown leave from this stop every fifteen minutes on weekdays.
-37. Please pick up a campus map from the information desk before we finish the tour.
-38. The main library is straight ahead — it holds over two million volumes.
-39. The student union houses the career center, food court, and student government offices.
-40. Residence halls are located on the east side of campus near the sports complex.
-41. The health center is open weekdays from eight in the morning until six in the evening.
-42. Metered street parking is available along the north boundary of campus.
-43. If you have questions during the tour, please raise your hand at any time.
-44. At the end, you will have a chance to meet current students and ask questions.
-45. Thank you for visiting — we hope to see you here as a student next fall.
+15. Welcome to the campus bookstore.
+16. Textbooks are in the back section.
+17. Notebooks and pens are on the left.
+18. Buybacks are accepted at the front counter during finals week every semester.
+19. Digital course materials can be purchased conveniently using your registered student login and account.
+20. If any required textbook is sold out, you can easily place an advance order at the main front counter.
+21. Returns are accepted within seven days of purchase as long as you provide the original receipt and original packaging.
 
 ---
 
-> **Toplam:** 45 cümle — 3 tema
+## Senaryo 4: Campus Bookstore — Merchandise
+
+22. University apparel is near the entrance.
+23. Gift cards are sold at checkout.
+24. Used textbooks are available here.
+25. Popular items include hoodies, caps, and coffee mugs featuring the official university school logo.
+26. New merchandise and seasonal designs arrive at the beginning of each new academic year in the fall.
+27. The store offers a guaranteed price match on all required textbook titles sold by any other authorized campus retailer.
+28. Student employees staff the entire store and are always happy to help you find any item you are looking for.
+
+---
+
+## Senaryo 5: Campus Tour — Start
+
+29. Welcome — we are glad you are here.
+30. Tours leave from the student union.
+31. Pick up a campus map here.
+32. On your left is the biology building, which was completely renovated just last summer.
+33. The fitness center is free for all enrolled students, including full access every weekend throughout the year.
+34. Buses to downtown depart from this exact stop every fifteen minutes on weekdays during regular operating hours.
+35. The main library, which is straight ahead, holds over two million volumes and is open around the clock during finals.
+
+---
+
+## Senaryo 6: Campus Tour — Highlights
+
+36. The dining hall is open daily.
+37. Health center hours are eight to six.
+38. We hope to see you next fall.
+39. Residence halls are located on the east side of campus near the athletic sports complex.
+40. Metered street parking is available along the north boundary of campus for short-term visitor use.
+41. At the very end of the tour today, you will have a chance to sit down and meet currently enrolled students.
+42. If you have any questions at any point during the tour, please do not hesitate to raise your hand at any time.
+
+---
+
+> **Toplam:** 42 cümle — 6 senaryo (3 kısa + 2 orta + 2 uzun her senaryo)
 > **Önceki:** `lesson14.md` → Airport Gate, Campus Mailroom, Career Center
-> **Sonraki:** Tamamlandı — 675 cümle hazır (ders1–15)
+> **Sonraki:** Tamamlandı — 672 cümle hazır (ders1–15)

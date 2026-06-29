@@ -10,74 +10,87 @@
 Bu dosyadaki cümleleri bana sırayla, teker teker ver. Her seferinde:
 1. Sadece bir cümle yaz — hepsini birden verme.
 2. Ben cümleyi sesli tekrar ederim (veya yazarım).
-3. Telaffuz, vurgu ve düşünce grupları hakkında kısa geri bildirim ver.
-4. "a/an/the" gibi küçük kelimeleri ve sondaki -s/-ed eklerini kontrol et.
-5. "Hazırım" veya "Next" dediğimde bir sonraki cümleye geç.
-Tema 1'den başla.
+3. Telaffuz ve vurgu hakkında kısa geri bildirim ver; "a/an/the" ile sondaki -s/-ed eklerini kontrol et.
+4. Bir kelime sorarsam: önce Türkçe anlamını ver, sonra İngilizce eş anlamlılarını listele.
+5. Uzun cümleyi tekrar edemersem: parçalara böl, parça parça öğret, sonra tümünü tekrar iste.
+6. "Hazırım" veya "Next" yazana kadar sessizce bekle — "ready?" gibi sorular sorma.
+Senaryo 1'den başla.
 ```
 
 ---
 
-## Tema 1: Airport Departure Gate
+## Senaryo 1: Airport Departure Gate — Boarding
 
 1. Welcome to gate number five.
-2. Please have your boarding pass ready to scan.
-3. We will begin boarding in approximately ten minutes.
-4. Passengers with priority seating may board the plane first.
-5. Make sure all personal items fit under the seat in front of you.
-6. If your carry-on bag is too large, we can check it at the gate for free.
-7. Thank you for your patience while we prepare the aircraft for departure.
-8. Please have your passport ready when you approach the boarding desk.
-9. Passengers traveling with small children may board at this time.
-10. All carry-on bags must fit in the overhead bin or under the seat.
-11. Remaining rows will begin boarding in just a few minutes.
-12. Please gather all your personal belongings before walking down the jet bridge.
-13. The estimated flight time to our destination is three hours and twenty minutes.
-14. Electronic devices must be switched to airplane mode before takeoff.
-15. The flight attendants will demonstrate the safety procedures shortly after boarding.
+2. Have your boarding pass ready.
+3. We board in ten minutes.
+4. Passengers with priority seating may board the aircraft first.
+5. All carry-on bags must fit in the overhead bin or under the seat in front of you.
+6. If your carry-on bag is too large, our staff can check it at the gate today at no charge.
+7. Please gather all personal belongings and make sure nothing is left behind before walking down the jet bridge.
 
 ---
 
-## Tema 2: Campus Mailroom
+## Senaryo 2: Airport Departure Gate — Second Call
 
-16. Welcome to the student mailroom.
-17. Please have your student ID ready before approaching the counter.
-18. All incoming packages are scanned and logged at the front desk.
-19. You will receive an email notification when your package arrives.
-20. All outgoing letters should be dropped in the blue collection bin.
-21. Fragile items must be wrapped securely before you bring them to the counter.
-22. If you lose your mailbox key, request a replacement online through the portal.
-23. Large packages that do not fit in your mailbox are held at the front counter.
-24. International shipping forms are available at the customer service window.
-25. Packages are held for up to fourteen days before being returned to the sender.
-26. Priority and express mail services are available for an additional fee.
-27. The mailroom is open Monday through Friday from eight to five.
-28. Saturday hours are limited — the mailroom closes at noon on weekends.
-29. Students living off campus may use a PO box for a small annual fee.
-30. All mail and packages are sorted and distributed by noon each weekday.
+8. Please have your passport ready.
+9. Remaining rows may board now.
+10. Switch devices to airplane mode.
+11. Passengers traveling with small children are welcome to board at this time.
+12. The estimated flight time to our destination today is three hours and twenty minutes.
+13. The flight attendants will demonstrate the full safety procedures for all passengers shortly after the doors are closed.
+14. We appreciate your patience and cooperation as we finish the final boarding process and prepare for our on-time departure.
 
 ---
 
-## Tema 3: Career Center Job Fair
+## Senaryo 3: Campus Mailroom — Welcome
 
-31. Welcome to the career center.
-32. Please take a copy of today's company schedule from the table.
-33. Bring multiple printed copies of your resume to hand out to employers.
-34. Professional clothing is strongly recommended for all visitors today.
-35. Company representatives are here to answer your questions directly.
-36. Schedule a practice interview online before the main event begins.
-37. Research the participating employers in advance to make a strong impression.
-38. Name tags are available at the registration desk near the main entrance.
-39. The career fair runs from ten in the morning until four in the afternoon.
-40. Employers are looking for candidates in engineering, finance, and healthcare.
-41. Many companies will conduct on-site interviews at the fair today.
-42. Collect business cards from company representatives for follow-up emails.
-43. Drop your resume in the box at each company table for future openings.
-44. A workshop on networking skills runs in room two-twelve at eleven o'clock.
-45. Post-fair feedback forms are available at the career center front desk.
+15. Welcome to the student mailroom.
+16. Please have your ID ready.
+17. Drop outgoing letters in the blue bin.
+18. All incoming packages are scanned and logged at the front counter upon arrival.
+19. You will receive an automatic email notification the moment your package arrives at the mailroom.
+20. Fragile items must be wrapped securely with proper padding before you bring them to the service counter.
+21. If you ever lose your mailbox key, you can easily request a replacement through the online student services portal.
 
 ---
 
-> **Toplam:** 45 cümle — 3 tema
+## Senaryo 4: Campus Mailroom — Hours & Services
+
+22. The mailroom closes at five weekdays.
+23. Saturday hours end at noon.
+24. Packages are held fourteen days.
+25. Large items that do not fit in your mailbox are held at the main front counter for pickup.
+26. Priority and express international shipping services are available at the customer service window for an additional fee.
+27. Students who live off campus may rent a post office box at the mailroom for a small annual service fee.
+28. All mail and packages are sorted and ready for pickup by twelve noon each weekday throughout the academic year.
+
+---
+
+## Senaryo 5: Career Center — Job Fair
+
+29. Welcome to the career center.
+30. Please take a schedule from the table.
+31. Bring multiple copies of your resume.
+32. Professional business attire is strongly recommended for all visitors attending today's career fair.
+33. Company representatives are standing by and ready to answer all of your questions about open positions.
+34. You are strongly encouraged to research each participating employer before arriving so you can make a strong impression.
+35. Many companies will conduct short on-site interviews right here at the fair, so prepare your talking points in advance.
+
+---
+
+## Senaryo 6: Career Center — Networking
+
+36. Name tags are at the front desk.
+37. Collect business cards from employers.
+38. Drop resumes at each company table.
+39. A workshop on professional networking skills will run in room two-twelve starting at eleven o'clock.
+40. Post-fair feedback forms and employer evaluation sheets are available at the career center information desk.
+41. Follow up each employer conversation with a personalized thank-you email within twenty-four hours of the fair ending.
+42. The career center is open Monday through Friday from eight in the morning until five in the evening for appointments.
+
+---
+
+> **Toplam:** 42 cümle — 6 senaryo (3 kısa + 2 orta + 2 uzun her senaryo)
 > **Önceki:** `lesson13.md` → Museum Tour, Botanical Garden, Observatory
-> **Sonraki:** `lesson15.md` → Dining Hall, Campus Store, Campus Tour
+> **Sonraki:** `lesson15.md` → Dining Hall, Campus Bookstore, Campus Tour

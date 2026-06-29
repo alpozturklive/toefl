@@ -10,9 +10,10 @@
 Bu dosyadaki cümleleri bana sırayla, teker teker ver. Her seferinde:
 1. Sadece bir cümle yaz — hepsini birden verme.
 2. Ben cümleyi sesli tekrar ederim (veya yazarım).
-3. Telaffuz, vurgu ve düşünce grupları hakkında kısa geri bildirim ver.
-4. "a/an/the" gibi küçük kelimeleri ve sondaki -s/-ed eklerini kontrol et.
-5. "Hazırım" veya "Next" dediğimde bir sonraki cümleye geç.
+3. Telaffuz ve vurgu hakkında kısa geri bildirim ver; "a/an/the" ile sondaki -s/-ed eklerini kontrol et.
+4. Bir kelime sorarsam: önce Türkçe anlamını ver, sonra İngilizce eş anlamlılarını listele.
+5. Uzun cümleyi tekrar edemersem: parçalara böl, parça parça öğret, sonra tümünü tekrar iste.
+6. "Hazırım" veya "Next" yazana kadar sessizce bekle — "ready?" gibi sorular sorma.
 Tema 1'den başla.
 ```
 
