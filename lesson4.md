@@ -1,7 +1,5 @@
 # TOEFL 2026 — Ders 4: Health Center, Gym, Dorm Life
 
-> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle.
-> Sadece **Listen & Repeat** — Speaking görevi (2 mülakat sorusu) bu dosyada yoktur.
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy
 
 ---
@@ -20,7 +18,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 1: Sağlık Merkezi (Health Center)
+## Tema 1: Health Center
 
 1. Walk-in appointments are available on weekday mornings.
 2. Students must present their insurance cards at check-in.
@@ -40,7 +38,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 2: Spor Salonu (Campus Gym)
+## Tema 2: Campus Gym
 
 16. The gym is open daily from six in the morning until midnight.
 17. Students must swipe their campus ID to enter the facility.
@@ -60,7 +58,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 3: Yurt Hayatı (Dorm Life)
+## Tema 3: Dorm Life
 
 31. Quiet hours begin at ten o'clock on weeknights.
 32. Guests must sign in at the front desk before visiting.
@@ -77,34 +75,6 @@ Tema 1'den başla.
 43. Common areas are available for group study sessions and social events.
 44. Students must vacate their rooms within twenty-four hours of the semester ending.
 45. Residents are encouraged to participate in floor meetings held each month.
-
----
-
-## Puanlama (Sınav Rubriği)
-
-| Puan | Açıklama |
-|------|----------|
-| **5** | Tam anlaşılır. Eksik kelime yok. Doğal vurgu ve tonlama. |
-| **4** | Küçük hatalar (article, edat). Anlam korunmuş. |
-| **3** | Bazı anahtar kelimeler eksik veya değişmiş. |
-| **2** | Cümlenin büyük kısmı eksik. Anlaşılması zor. |
-| **1** | Sadece birkaç kelime. Cümle bütünlüğü yok. |
-| **0** | Yanıt yok. |
-
-**Süre sınırları:**
-- Kısa cümleler (1-2 kelime grubu): **8 saniye**
-- Orta cümleler (3-5 kelime grubu): **10 saniye**
-- Uzun cümleler (6-7 kelime grubu): **12 saniye**
-
----
-
-## 5 Telaffuz Tuzağı
-
-1. **Article Trap** — "a, an, the" kelimelerini yutma.
-2. **Thought Groups** — virgülden sonra doğal duraklama yap.
-3. **Function Words** — "is, at, for, of" vurgulama ama yutma da.
-4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme.
-5. **Düz tonlama** — cümle sonunda doğal iniş-çıkış yap.
 
 ---
 

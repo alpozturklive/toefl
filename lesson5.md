@@ -1,7 +1,5 @@
 # TOEFL 2026 — Ders 5: Science Lecture, Lab, Research
 
-> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle.
-> Sadece **Listen & Repeat** — Speaking görevi (2 mülakat sorusu) bu dosyada yoktur.
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy
 
 ---
@@ -20,7 +18,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 1: Ders / Amfi (Science Lecture)
+## Tema 1: Science Lecture
 
 1. The lecture covers the fundamentals of cellular biology.
 2. Students are expected to complete the assigned readings beforehand.
@@ -40,7 +38,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 2: Laboratuvar (Lab)
+## Tema 2: Lab
 
 16. Safety goggles must be worn at all times in the lab.
 17. Lab coats are required before handling any chemicals.
@@ -60,7 +58,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 3: Araştırma / Tez (Research)
+## Tema 3: Research
 
 31. The hypothesis must be clearly stated in the introduction.
 32. The literature review summarizes previous studies on the topic.
@@ -77,34 +75,6 @@ Tema 1'den başla.
 43. Revisions are often required before a paper is accepted for publication.
 44. Research proposals must be approved by the academic committee in advance.
 45. The final thesis must be submitted in both digital and printed formats.
-
----
-
-## Puanlama (Sınav Rubriği)
-
-| Puan | Açıklama |
-|------|----------|
-| **5** | Tam anlaşılır. Eksik kelime yok. Doğal vurgu ve tonlama. |
-| **4** | Küçük hatalar (article, edat). Anlam korunmuş. |
-| **3** | Bazı anahtar kelimeler eksik veya değişmiş. |
-| **2** | Cümlenin büyük kısmı eksik. Anlaşılması zor. |
-| **1** | Sadece birkaç kelime. Cümle bütünlüğü yok. |
-| **0** | Yanıt yok. |
-
-**Süre sınırları:**
-- Kısa cümleler (1-2 kelime grubu): **8 saniye**
-- Orta cümleler (3-5 kelime grubu): **10 saniye**
-- Uzun cümleler (6-7 kelime grubu): **12 saniye**
-
----
-
-## 5 Telaffuz Tuzağı
-
-1. **Article Trap** — "a, an, the" kelimelerini yutma.
-2. **Thought Groups** — virgülden sonra doğal duraklama yap.
-3. **Function Words** — "is, at, for, of" vurgulama ama yutma da.
-4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme.
-5. **Düz tonlama** — cümle sonunda doğal iniş-çıkış yap.
 
 ---
 

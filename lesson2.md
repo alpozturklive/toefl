@@ -1,7 +1,5 @@
 # TOEFL 2026 — Ders 002: Library, Career Forum, MBA Open House
 
-> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle (veya tüm içeriği kopyalayıp yapıştır).
-> Sadece **Listen & Repeat** bölümü — TOEFL'ın Speaking görevi (2 mülakat) bu dosyada **yoktur**.
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy & toeflpreps.com
 
 ---
@@ -20,7 +18,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 1: Kütüphane (Library)
+## Tema 1: Library
 
 1. Books must be returned on time.
 2. Late fees are charged for overdue items.
@@ -40,7 +38,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 2: Kariyer Fuarı (Career Forum)
+## Tema 2: Career Forum
 
 16. Résumés should be printed and ready before the event.
 17. Dress professionally when attending a career fair.
@@ -60,7 +58,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 3: MBA Açık Kapı / Bilgi Toplantısı (MBA Open House)
+## Tema 3: MBA Open House
 
 31. Applications are due at the end of the month.
 32. The MBA program requires two years to complete.
@@ -77,34 +75,6 @@ Tema 1'den başla.
 43. Scholarship opportunities are discussed during the financial aid presentation.
 44. The program offers both full-time and part-time enrollment options.
 45. Prospective students are encouraged to tour the campus before applying.
-
----
-
-## Puanlama (Sınav Rubriği)
-
-| Puan | Açıklama |
-|------|----------|
-| **5** | Tam anlaşılır. Eksik kelime yok. Doğal vurgu ve tonlama. |
-| **4** | Küçük hatalar (article, edat). Anlam korunmuş. |
-| **3** | Bazı anahtar kelimeler eksik veya değişmiş. |
-| **2** | Cümlenin büyük kısmı eksik. Anlaşılması zor. |
-| **1** | Sadece birkaç kelime. Cümle bütünlüğü yok. |
-| **0** | Yanıt yok. |
-
-**Süre sınırları:**
-- Kısa cümleler (1-2): **8 saniye**
-- Orta cümleler (3-5): **10 saniye**
-- Uzun cümleler (6-7): **12 saniye**
-
----
-
-## 5 Telaffuz Tuzağı
-
-1. **Article Trap** — "a, an, the" kelimelerini yutma. AI bunları sayar.
-2. **Thought Groups** — "Although", "Because" sonrası doğal duraklama yap.
-3. **Function Words** — "is, at, for, of" kelimelerini vurgulama ama yutma da.
-4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme (books ≠ book).
-5. **Düz tonlama** — Robot gibi konuşma; İngilizce ritimli bir dil.
 
 ---
 

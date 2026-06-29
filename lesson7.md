@@ -1,7 +1,5 @@
-# TOEFL 2026 — Ders 7: Technology, Online Classes, Financial Aid
+# TOEFL 2026 — Ders 7: Campus Technology, Online Classes, Financial Aid
 
-> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle.
-> Sadece **Listen & Repeat** — Speaking görevi (2 mülakat sorusu) bu dosyada yoktur.
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy
 
 ---
@@ -20,94 +18,66 @@ Tema 1'den başla.
 
 ---
 
-## Tema 1: Teknoloji / IT Hizmetleri (Campus Technology)
+## Tema 1: Campus Technology
 
-1. The campus Wi-Fi network is available in all academic buildings.
-2. Students receive a university email account upon enrollment.
+1. The campus Wi-Fi is available in all academic buildings.
+2. Students receive a university email account when they enroll.
 3. The IT help desk is open weekdays from eight to six.
-4. Software licenses for Microsoft Office are free for enrolled students.
-5. Printing credits are loaded onto the student account each semester.
-6. Computer labs are available for walk-in use during operating hours.
-7. Personal devices must be registered to access the secure campus network.
-8. The learning management system is used to submit all assignments online.
-9. Two-factor authentication is required for all university accounts.
-10. IT support can be reached by phone, email, or in-person at the tech center.
-11. Unauthorized software installation on lab computers is strictly prohibited.
-12. Cloud storage is provided to all students through the university portal.
-13. Cybersecurity workshops are offered each semester by the IT department.
-14. Students are responsible for backing up their own academic work regularly.
-15. The university provides assistive technology tools for students with disabilities.
+4. Microsoft Office is free to download for all enrolled students.
+5. Printing credits are added to your student account each semester.
+6. Computer labs are open for walk-in use during posted hours.
+7. Personal devices must be registered to access the secure network.
+8. All assignments are submitted through the learning management system.
+9. You must verify your identity with two-factor authentication to log in.
+10. Contact IT support by phone, email, or in person at the tech center.
+11. Installing unauthorized software on lab computers is strictly prohibited.
+12. Cloud storage is provided through the university student portal.
+13. Cybersecurity workshops run each semester through the IT department.
+14. Back up your academic work regularly — the university is not responsible for lost files.
+15. Assistive technology tools are available for students with disabilities.
 
 ---
 
-## Tema 2: Çevrimiçi Dersler (Online & Hybrid Classes)
+## Tema 2: Online & Hybrid Classes
 
-16. Online course materials are posted before the start of each week.
-17. Discussion board participation counts toward the overall course grade.
-18. Video lectures must be watched before the weekly live session.
-19. Technical difficulties should be reported to the instructor promptly.
-20. Webcams are required for proctored online exams.
-21. Time zone differences must be considered when scheduling live sessions.
+16. Course materials for the week are posted every Sunday evening.
+17. Discussion board posts count toward your overall course grade.
+18. Watch all video lectures before the weekly live session begins.
+19. Report any technical problems to your instructor right away.
+20. A webcam is required for all proctored online exams.
+21. Check time zone differences before scheduling live class sessions.
 22. Online students have full access to the digital library and databases.
-23. Assignment deadlines remain the same regardless of the course format.
+23. Assignment deadlines are the same regardless of course format.
 24. Hybrid courses meet in person twice a week and online for the rest.
-25. Students should test their audio and video before each virtual class.
-26. Chat features during live sessions should be used respectfully.
-27. Office hours for online courses are held through video conferencing tools.
-28. Course evaluations are submitted electronically at the end of the semester.
-29. Academic integrity policies apply equally to online and in-person courses.
-30. Students are expected to log in and participate actively each week.
+25. Test your audio and video before each virtual class session.
+26. Use the chat feature respectfully during live sessions.
+27. Office hours for online courses are held by video call.
+28. Course evaluations are submitted online at the end of each term.
+29. Academic honesty rules apply equally to online and in-person courses.
+30. Log in and participate actively every week to stay on track.
 
 ---
 
-## Tema 3: Mali Yardım / Burs (Financial Aid)
+## Tema 3: Financial Aid
 
 31. The financial aid application must be submitted before the deadline.
-32. Scholarship awards are based on both academic merit and financial need.
+32. Scholarships are awarded based on both merit and financial need.
 33. Aid packages are reviewed and renewed at the start of each academic year.
-34. Students must maintain satisfactory academic progress to keep their aid.
-35. Work-study positions are available through the financial aid office.
-36. Loan repayment begins six months after graduation or withdrawal.
-37. The financial aid office holds information sessions every fall.
+34. You must make satisfactory academic progress to keep your aid.
+35. Work-study positions are listed through the financial aid office.
+36. Loan repayment starts six months after you graduate or withdraw.
+37. The financial aid office holds information sessions every fall semester.
 38. Outside scholarships must be reported to the financial aid office.
-39. Grants do not need to be repaid, unlike student loans.
-40. Appeals for additional aid can be submitted with supporting documentation.
-41. Emergency funds are available for students facing unexpected financial hardship.
+39. Grants do not need to be paid back, unlike student loans.
+40. You can appeal for more aid by submitting supporting documents.
+41. Emergency funds are available for students facing sudden hardship.
 42. The estimated cost of attendance includes tuition, housing, and living expenses.
-43. Students receiving aid must enroll in a minimum number of credit hours.
-44. Tax documents related to scholarships are mailed at the beginning of each year.
+43. Aid recipients must enroll in a minimum number of credit hours each term.
+44. Tax documents related to your scholarships are mailed early each year.
 45. Financial literacy workshops help students manage budgets and student debt.
-
----
-
-## Puanlama (Sınav Rubriği)
-
-| Puan | Açıklama |
-|------|----------|
-| **5** | Tam anlaşılır. Eksik kelime yok. Doğal vurgu ve tonlama. |
-| **4** | Küçük hatalar (article, edat). Anlam korunmuş. |
-| **3** | Bazı anahtar kelimeler eksik veya değişmiş. |
-| **2** | Cümlenin büyük kısmı eksik. Anlaşılması zor. |
-| **1** | Sadece birkaç kelime. Cümle bütünlüğü yok. |
-| **0** | Yanıt yok. |
-
-**Süre sınırları:**
-- Kısa cümleler (1-2 kelime grubu): **8 saniye**
-- Orta cümleler (3-5 kelime grubu): **10 saniye**
-- Uzun cümleler (6-7 kelime grubu): **12 saniye**
-
----
-
-## 5 Telaffuz Tuzağı
-
-1. **Article Trap** — "a, an, the" kelimelerini yutma.
-2. **Thought Groups** — virgülden sonra doğal duraklama yap.
-3. **Function Words** — "is, at, for, of" vurgulama ama yutma da.
-4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme.
-5. **Düz tonlama** — cümle sonunda doğal iniş-çıkış yap.
 
 ---
 
 > **Toplam:** 45 cümle — 3 tema
 > **Önceki:** `lesson6.md` → Student Organizations, Campus Events, Study Abroad
-> **Sonraki:** `lesson8.md` → Environment & Sustainability, Ethics, Campus Policy
+> **Sonraki:** `lesson8.md` → Registrar, Academic Advising, Tutoring Center

@@ -1,7 +1,5 @@
 # TOEFL 2026 — Ders 3: Airport, Restaurant, Hotel
 
-> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle.
-> Sadece **Listen & Repeat** — Speaking görevi (2 mülakat sorusu) bu dosyada yoktur.
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy
 >
 > ⚠️ **Not:** Airport, Restaurant, Hotel senaryoları TOEFL iBT'de nadiren çıkar.
@@ -23,7 +21,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 1: Havalimanı (Airport)
+## Tema 1: Airport
 
 1. Flights are listed on the departure board.
 2. Security lines move quickly during off-peak hours.
@@ -43,7 +41,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 2: Restoran (Restaurant)
+## Tema 2: Restaurant
 
 16. A table for two is available near the window.
 17. The daily specials are listed on the chalkboard.
@@ -63,7 +61,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 3: Otel / Konaklama (Hotel)
+## Tema 3: Hotel
 
 31. Check-in begins at three in the afternoon.
 32. Early check-in is available for an additional fee.
@@ -80,34 +78,6 @@ Tema 1'den başla.
 43. Guests are responsible for any damage caused during their stay.
 44. The concierge can arrange tours, restaurant reservations, and transportation.
 45. Do not disturb signs should be placed on the door handle before retiring.
-
----
-
-## Puanlama (Sınav Rubriği)
-
-| Puan | Açıklama |
-|------|----------|
-| **5** | Tam anlaşılır. Eksik kelime yok. Doğal vurgu ve tonlama. |
-| **4** | Küçük hatalar (article, edat). Anlam korunmuş. |
-| **3** | Bazı anahtar kelimeler eksik veya değişmiş. |
-| **2** | Cümlenin büyük kısmı eksik. Anlaşılması zor. |
-| **1** | Sadece birkaç kelime. Cümle bütünlüğü yok. |
-| **0** | Yanıt yok. |
-
-**Süre sınırları:**
-- Kısa cümleler (1-2 kelime grubu): **8 saniye**
-- Orta cümleler (3-5 kelime grubu): **10 saniye**
-- Uzun cümleler (6-7 kelime grubu): **12 saniye**
-
----
-
-## 5 Telaffuz Tuzağı
-
-1. **Article Trap** — "a, an, the" kelimelerini yutma.
-2. **Thought Groups** — virgülden sonra doğal duraklama yap.
-3. **Function Words** — "is, at, for, of" vurgulama ama yutma da.
-4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme.
-5. **Düz tonlama** — cümle sonunda doğal iniş-çıkış yap.
 
 ---
 

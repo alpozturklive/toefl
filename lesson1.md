@@ -1,7 +1,5 @@
-# TOEFL 2026 — Ders 1: Listen & Repeat
+# TOEFL 2026 — Ders 1: Campus Dining, Campus Store, Lecture Hall
 
-> Bu dosyayı **ChatGPT, Gemini veya Claude**'a yükle (veya tüm içeriği kopyalayıp yapıştır).
-> Sadece **Listen & Repeat** bölümü — TOEFL'ın Speaking görevi (2 mülakat) bu dosyada **yoktur**.
 > Kaynak: TOEFL iBT 2026 — Inspire SpeakEasy & toeflpreps.com
 
 ---
@@ -20,7 +18,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 1: Kampüs Yemekhanesi (Campus Dining)
+## Tema 1: Campus Dining
 
 1. Hot meals and cold drinks are served here daily.
 2. Fresh dishes are prepared in the kitchen every morning.
@@ -40,7 +38,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 2: Kampüs Mağazası (Campus Store)
+## Tema 2: Campus Store
 
 16. Various school supplies and branded items are sold here.
 17. Required textbooks are available for purchase in the campus store.
@@ -60,7 +58,7 @@ Tema 1'den başla.
 
 ---
 
-## Tema 3: Derslik / Amfi (Lecture Hall)
+## Tema 3: Lecture Hall
 
 31. All lectures in this auditorium are expected to begin on time.
 32. Students are seated in tiered rows throughout the lecture hall.
@@ -80,33 +78,5 @@ Tema 1'den başla.
 
 ---
 
-## Puanlama (Sınav Rubriği)
-
-| Puan | Açıklama |
-|------|----------|
-| **5** | Tam anlaşılır. Eksik kelime yok. Doğal vurgu ve tonlama. |
-| **4** | Küçük hatalar (article, edat). Anlam korunmuş. |
-| **3** | Bazı anahtar kelimeler eksik veya değişmiş. |
-| **2** | Cümlenin büyük kısmı eksik. Anlaşılması zor. |
-| **1** | Sadece birkaç kelime. Cümle bütünlüğü yok. |
-| **0** | Yanıt yok. |
-
-**Süre sınırları:**
-- Kısa cümleler (1-2): **8 saniye**
-- Orta cümleler (3-5): **10 saniye**
-- Uzun cümleler (6-7): **12 saniye**
-
----
-
-## 5 Telaffuz Tuzağı
-
-1. **Article Trap** — "a, an, the" kelimelerini yutma. AI bunları sayar.
-2. **Thought Groups** — "Although", "Because" sonrası doğal duraklama yap.
-3. **Function Words** — "is, at, for, of" kelimelerini vurgulama ama yutma da.
-4. **Sondaki ekler** — "-s" ve "-ed" eklerini düşürme (books ≠ book).
-5. **Düz tonlama** — Robot gibi konuşma; İngilizce ritimli bir dil.
-
----
-
-> **Toplam:** 45 cümle — 3 kampüs teması
-> **Sonraki:** `ders002.md` → Kütüphane, Teknoloji Konferansı, Kariyer Forumu
+> **Toplam:** 45 cümle — 3 tema
+> **Sonraki:** `lesson2.md` → Library, Career Forum, MBA Open House
