@@ -7,13 +7,25 @@
 ## Başlangıç Komutu (AI'ya yapıştır)
 
 ```
-Bu dosyadaki cümleleri bana sırayla, teker teker ver. Her seferinde:
-1. Sadece bir cümle yaz — hepsini birden verme.
-2. Ben cümleyi sesli tekrar ederim (veya yazarım).
-3. Telaffuz ve vurgu hakkında kısa geri bildirim ver; "a/an/the" ile sondaki -s/-ed eklerini kontrol et.
-4. Bir kelime sorarsam: önce Türkçe anlamını ver, sonra İngilizce eş anlamlılarını listele.
-5. Uzun cümleyi tekrar edemersem: parçalara böl, parça parça öğret, sonra tümünü tekrar iste.
-6. "Hazırım" veya "Next" yazana kadar sessizce bekle — "ready?" gibi sorular sorma.
+Bu dosyadaki cümleleri sırayla, teker teker ver. Her cümle için bu adımları KESİNLİKLE sırayla uygula:
+
+ADIM 1 — Cümleyi tek başına, net şekilde yaz (başka hiçbir şey ekleme):
+Örnek: Welcome to the campus library.
+
+ADIM 2 — Sessizce bekle. Ben o cümleyi sesli tekrar edeceğim veya yazacağım.
+
+ADIM 3 — Benim tekrarımdan SONRA kısa geri bildirim ver:
+  • Telaffuz ve vurgu
+  • Türkçe tuzaklar:
+    – "th" → dilin alt dişlere değmeli (the, that, think)
+    – "-ed" sonu → son sesi yutma (completed, attended)
+    – "-ing" → /ŋ/ sesi, "g" sesi yok (meeting, reading)
+    – "a/an/the" → yutma
+
+ADIM 4 — Kelime sorarsan: önce Türkçe anlam, sonra İngilizce eş anlamlılar.
+ADIM 5 — Uzun cümleyi tekrar edemersem: parçalara böl, parça parça öğret, sonra bütününü iste.
+ADIM 6 — "Hazırım" / "Next" yazana kadar sessizce bekle — hiçbir soru sorma.
+
 Tema 1'den başla.
 ```
 
